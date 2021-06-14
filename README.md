@@ -6,6 +6,8 @@ Basically you can make a configuration file, open it, and read the inputted valu
 
 that's it
 
+## for more in-depth (ish) tutorial, visit [the wiki](https://github.com/caeserlettuce/pycomfy/wiki/)
+
 ## HOW TO USE
 
 either git clone or download the zip into the same folder as your main script. at the top of your script, type `import pycomfy as comfy`.
